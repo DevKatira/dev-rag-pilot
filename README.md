@@ -75,3 +75,7 @@ Only run this on trusted files on your own machine.
 🤝 License
 No license selected yet. You’re free to view and learn from the code.
 (Consider adding an MIT License if you want to allow re-use.)
+
+### 🔧 Environment Setup
+Copy `.env.example` to `.env` and fill in your actual Supabase credentials:
+
