@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-`dev-rag-pilot` is a learning-ground and experimental workspace for:
+`dev-rag-pilot` is a learning-ground and experimental workspace for Savanmama:
 - Building RAG (Retrieval-Augmented Generation) applications
 - Exploring LLMs like LLaMA 3 via Ollama
 - Integrating Supabase for remote file storage
